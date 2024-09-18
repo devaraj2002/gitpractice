@@ -1,6 +1,9 @@
 bug1
 <<<<<<< HEAD
+<<<<<<< HEAD
 dev2
 =======
 dev1
 >>>>>>> dev1
+=======
+>>>>>>> parent of 99cac1b (dev2 on bug)
